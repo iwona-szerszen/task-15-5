@@ -9,13 +9,13 @@ Gifs Search Engine - application to search gifs from [Giphy](https://giphy.com/)
 
 
 ## Aim of project
-The project was created as a part of Web Developer bootcamp in order to build React application using Promises and external API. 
+The project was created as a part of Web Developer bootcamp in order to build React application using Promises, external API and XMLHttpRequest.
 
 
 ## Technologies
 Project created with:
 * React
-* API Giphy
+* Giphy API with XHR
 * http-server
 
 
